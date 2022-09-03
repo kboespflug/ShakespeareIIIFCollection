@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://detektiiif.manducus.net/invalide",
+    "@id": "https://raw.githubusercontent.com/kboespflug/ShakespeareIIIFCollection/main/Shakespeare_Portraits.json",
     "@type": "sc:Collection",
     "label": "Shakespeare: Portraits",
     "description": "A IIIF collection of portraits of William Shakespeare from various sources",
