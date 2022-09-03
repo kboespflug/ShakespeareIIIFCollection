@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://raw.githubusercontent.com/kboespflug/ShakespeareIIIFCollection/main/ShakespeareCollection_AllInOne.json",
     "@type": "sc:Collection",
-    "label": "Not of an Age, but for all Time",
+    "label": "For mine own part, it was all Greek to me",
     "description": "A IIIF collection of resources on William Shakespeare, diligently gathered from various sources, and arranged in some kind of reasonable order",
     "attribution": "by a humble student of The Bard",
     "manifests": [
