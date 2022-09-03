@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://raw.githubusercontent.com/kboespflug/ShakespeareIIIFCollection/main/Shakespeare_Photos.json",
     "@type": "sc:Collection",
-    "label": "Shakespeare: Production Photos",
+    "label": "Shakespeare: Photos",
     "description": "A IIIF collection of photos from plays by William Shakespeare",
     "manifests": [
            
