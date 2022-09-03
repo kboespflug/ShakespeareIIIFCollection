@@ -1,0 +1,24 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://detektiiif.manducus.net/invalide",
+    "@type": "sc:Collection",
+    "label": "Shakespeare: Secondary literature",
+    "description": "A IIIF collection of secondary literature resources, related to William Shakespeare",
+    "manifests": [
+       
+           
+        {
+            "@id": "https://www.e-rara.ch/i3f/v20/20144384/manifest",
+            "@type": "sc:Manifest",
+            "label": "Vorlesungen über Shakespeare's Macbeth. Berlin, 1865",
+            "thumbnail": "https://www.e-rara.ch/zuz/i3f/v21/20144390/full/304/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1232375/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Uraguchi's Shakespeare Pamphlets. 第1. Tokyo, 1934",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1232375/F0000001/full/full/0/default.jpg"
+        }
+       
+    ]
+}
