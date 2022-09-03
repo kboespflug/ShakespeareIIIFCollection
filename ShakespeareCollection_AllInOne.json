@@ -1,0 +1,134 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/kboespflug/Shakespeare/main/ShakespeareFinalTest.json",
+    "@type": "sc:Collection",
+    "label": "Not of an Age, but for all Time",
+    "description": "A IIIF collection of resources on William Shakespeare, diligently gathered from various sources and arranged in some kind of reasonable order",
+    "attribution": "by a humble student of The Bard",
+    "manifests": [
+       
+       
+        {
+            "@id": "https://iiif.wellcomecollection.org/presentation/v2/b12027546",
+            "@type": "sc:Manifest",
+            "label": "William Shakespeare. Oil painting, 18--.",
+            "thumbnail": "https://iiif.wellcomecollection.org/thumbs/b12027546_0001.jp2/full/84,100/0/default.jpg"
+        },
+        {
+            "@id": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650/manifest",
+            "@type": "sc:Manifest",
+            "label": "William Shakespeare, full portrait. Ca. 1859-1870",
+            "thumbnail": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650/thumbnail"
+        },
+        {
+            "@id": "https://iiif.harvardartmuseums.org/manifests/object/275217",
+            "@type": "sc:Manifest",
+            "label": "William Shakespeare, portrait. 1849",
+            "thumbnail": "https://ids.lib.harvard.edu/ids/iiif/20224202/full/!170,170/0/default.jpg"
+        },
+        {
+            "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100056663076.0x000001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "[First Folio] Mr. VVilliam Shakespeares comedies, histories, & tragedies  : Published according to the true originall copies. London, 1623",
+            "thumbnail": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056901229.0x000001/full/max/0/default.jpg"
+        },
+        {
+            "@id": "https://iiif.unige.ch/manifest/IIIFManifest_1072056515.json",
+            "@type": "sc:Manifest",
+            "label": "A Midsommer nights dreame. 1600",
+            "thumbnail": "https://iiif.unige.ch/iiif/2/1072056515_002/full/,100/0/default.jpg"
+        },
+        {
+            "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100099231823.0x000001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The history of King Lear  : a tragedy: as it is now acted at the King's theatres. Revived, with alterations by N. Tate. London, 1756",
+            "thumbnail": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100099241390.0x000001/full/max/0/default.jpg"
+        },
+        {
+            "@id": "https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN1029924031/manifest?version=2d651b49",
+            "@type": "sc:Manifest",
+            "label": "Macbeth. Stuttgart, 1784",
+            "thumbnail": "https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN1029924031:00000001/full/96,/0/default.jpg"
+        },
+        {
+            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k34133491/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Oeuvres de William Shakespeare. Paris, 1839",
+            "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k34133491.thumbnail"
+        },
+        {
+            "@id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/OSE/B010/manifest.json",
+            "@type": "sc:Manifest",
+             "label": "Martin Harvey as Hamlet『ハムレット』",
+            "thumbnail": "https://iiif.lib.keio.ac.jp/iipsrv/OSE/B/tif/B010.tif/full/,100/0/default.jpg"
+        },
+        {
+            "@id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/OSE/B011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Martin Harvey and N de Silva in Hamlet『ハムレット』",
+            "thumbnail": "https://iiif.lib.keio.ac.jp/iipsrv/OSE/B/tif/B011.tif/full/,100/0/default.jpg"
+        },
+        {
+            "@id": "https://server.collections.folger.edu/iiif/manifest/from-dap-id/d7b782e9-9df4-44c0-ad1b-1a08b79e21d7.json",
+            "@type": "sc:Manifest",
+            "label": "Marcius-Simons, Pinckney. [Illustrations to A midsummer night's dream]. 1908",
+            "thumbnail": "https://iiif.collections.folger.edu/iiif/2/4c343da8-8bc7-42f2-9704-e925d7fb7d35.TIFF/full/,100/0/default.jpg"
+        },
+        {
+            "@id": "https://iiif.wellcomecollection.org/presentation/v2/b15760777",
+            "@type": "sc:Manifest",
+            "label": "Macbeth, Shakespeare: the three witches. Mezzotint by J.R. Smith, 1785, after H. Fuseli, 1783.",
+            "thumbnail": "https://iiif.wellcomecollection.org/thumbs/b15760777_V0044814-LH-LH.jp2/full/100,79/0/default.jpg"
+        },
+        {
+            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b2200207x/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Illustrations de Roméo et Juliette",
+            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b2200207x.thumbnail"
+        },
+        {
+            "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~307126~90077063/manifest",
+            "@type": "sc:Manifest",
+            "label": "William Shakespeare: A Dunlop Map of the West Country which includes the Doone country and the Hardy country. 1937",
+            "thumbnail": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~307126~90077063/full/!96,96/0/default.jpg"
+        },
+        {
+            "@id": "https://media.getty.edu/iiif/manifest/b7830f5f-1ba0-4173-9491-f197bd1edb63",
+            "@type": "sc:Manifest",
+            "label": "Shakespeare and Stratford-Upon-Avon, A Chronicle of the Time. London, 1864",
+            "thumbnail": "https://media.getty.edu/iiif/image/d6e82352-2953-4391-8f67-11ffe2ed9e69/full/!600,600/0/default.jpg"
+        },
+        {
+            "@id": "https://media.getty.edu/iiif/manifest/92ae7c48-992b-4a4b-8e6c-22a522ce5be2",
+            "@type": "sc:Manifest",
+            "label": "Mary Arden's Cottage. Photogravure, ca. 1891/2",
+            "thumbnail": "https://media.getty.edu/iiif/image/490ee629-1378-49df-8bf2-bbf4d3b2dfa6/full/!600,600/0/default.jpg"
+        },
+        {
+            "@id": "https://ark.digitalcommonwealth.org/ark:/50959/kh04n2634/manifest",
+            "@type": "sc:Manifest",
+            "label": "Shakespeare's birthplace. Watercolour painting, 1833",
+            "thumbnail": "https://ark.digitalcommonwealth.org/ark:/50959/kh04n2634/thumbnail"
+        },
+        {
+            "@id": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/manifest",
+            "@type": "sc:Manifest",
+            "label": "Plan of Shakespeare's birth-place. 1824",
+            "thumbnail": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/thumbnail"
+        },
+        {
+            "@id": "https://www.e-rara.ch/i3f/v20/20144384/manifest",
+            "@type": "sc:Manifest",
+            "label": "Vorlesungen über Shakespeare's Macbeth. Berlin, 1865",
+            "thumbnail": "https://www.e-rara.ch/zuz/i3f/v21/20144390/full/304/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1232375/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Uraguchi's Shakespeare Pamphlets. 第1. Tokyo, 1934",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1232375/F0000001/full/full/0/default.jpg"
+        }
+       
+    ]
+}
+
