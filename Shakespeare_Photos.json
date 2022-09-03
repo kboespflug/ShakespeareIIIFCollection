@@ -1,0 +1,24 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://detektiiif.manducus.net/invalide",
+    "@type": "sc:Collection",
+    "label": "Shakespeare: Production Photos",
+    "description": "A IIIF collection of photos from plays by William Shakespeare",
+    "manifests": [
+           
+                
+        {
+            "@id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/OSE/B010/manifest.json",
+            "@type": "sc:Manifest",
+             "label": "Martin Harvey as Hamlet『ハムレット』",
+            "thumbnail": "https://iiif.lib.keio.ac.jp/iipsrv/OSE/B/tif/B010.tif/full/,100/0/default.jpg"
+        },
+        {
+            "@id": "https://dcollections.lib.keio.ac.jp/sites/default/files/iiif/OSE/B011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Martin Harvey and N de Silva in Hamlet『ハムレット』",
+            "thumbnail": "https://iiif.lib.keio.ac.jp/iipsrv/OSE/B/tif/B011.tif/full/,100/0/default.jpg"
+        }
+       
+    ]
+}
