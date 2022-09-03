@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://detektiiif.manducus.net/invalide",
+    "@type": "sc:Collection",
+    "label": "Shakespeare: Illustrations",
+    "description": "A IIIF collection of illustrations relating to the plays by William Shakespeare",
+    "manifests": [
+       
+                     
+        {
+            "@id": "https://server.collections.folger.edu/iiif/manifest/from-dap-id/d7b782e9-9df4-44c0-ad1b-1a08b79e21d7.json",
+            "@type": "sc:Manifest",
+            "label": "Marcius-Simons, Pinckney. [Illustrations to A midsummer night's dream]. 1908",
+            "thumbnail": "https://iiif.collections.folger.edu/iiif/2/4c343da8-8bc7-42f2-9704-e925d7fb7d35.TIFF/full/,100/0/default.jpg"
+        },
+        {
+            "@id": "https://iiif.wellcomecollection.org/presentation/v2/b15760777",
+            "@type": "sc:Manifest",
+            "label": "Macbeth, Shakespeare: the three witches. Mezzotint by J.R. Smith, 1785, after H. Fuseli, 1783.",
+            "thumbnail": "https://iiif.wellcomecollection.org/thumbs/b15760777_V0044814-LH-LH.jp2/full/100,79/0/default.jpg"
+        },
+        {
+            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b2200207x/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Illustrations de Roméo et Juliette",
+            "thumbnail": "https://gallica.bnf.fr/ark:/12148/btv1b2200207x.thumbnail"
+        }
+        
+       
+    ]
+}
