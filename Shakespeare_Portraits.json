@@ -1,0 +1,30 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://detektiiif.manducus.net/invalide",
+    "@type": "sc:Collection",
+    "label": "Shakespeare: Portraits",
+    "description": "A IIIF collection of portraits of William Shakespeare from various sources",
+    "manifests": [
+       
+       
+        {
+            "@id": "https://iiif.wellcomecollection.org/presentation/v2/b12027546",
+            "@type": "sc:Manifest",
+            "label": "William Shakespeare. Oil painting, 18--.",
+            "thumbnail": "https://iiif.wellcomecollection.org/thumbs/b12027546_0001.jp2/full/84,100/0/default.jpg"
+        },
+        {
+            "@id": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650/manifest",
+            "@type": "sc:Manifest",
+            "label": "William Shakespeare, full portrait. Ca. 1859-1870",
+            "thumbnail": "https://ark.digitalcommonwealth.org/ark:/50959/pk02cp650/thumbnail"
+        },
+        {
+            "@id": "https://iiif.harvardartmuseums.org/manifests/object/275217",
+            "@type": "sc:Manifest",
+            "label": "William Shakespeare, portrait. 1849",
+            "thumbnail": "https://ids.lib.harvard.edu/ids/iiif/20224202/full/!170,170/0/default.jpg"
+        }
+       
+    ]
+}
