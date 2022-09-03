@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://detektiiif.manducus.net/invalide",
+    "@id": "https://raw.githubusercontent.com/kboespflug/ShakespeareIIIFCollection/main/Shakespeare_Stratford.json",
     "@type": "sc:Collection",
     "label": "Shakespeare: Stratford",
     "description": "A IIIF collection of resources depicting places in and around Stratford, related to William Shakespeare",
