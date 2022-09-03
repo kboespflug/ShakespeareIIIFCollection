@@ -1,0 +1,42 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://detektiiif.manducus.net/invalide",
+    "@type": "sc:Collection",
+    "label": "Shakespeare: Plays",
+    "description": "A IIIF collection of plays by William Shakespeare from various sources",
+    "manifests": [
+       
+       
+        {
+            "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100056663076.0x000001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "[First Folio] Mr. VVilliam Shakespeares comedies, histories, & tragedies  : Published according to the true originall copies. London, 1623",
+            "thumbnail": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056901229.0x000001/full/max/0/default.jpg"
+        },
+        {
+            "@id": "https://iiif.unige.ch/manifest/IIIFManifest_1072056515.json",
+            "@type": "sc:Manifest",
+            "label": "A Midsommer nights dreame. 1600",
+            "thumbnail": "https://iiif.unige.ch/iiif/2/1072056515_002/full/,100/0/default.jpg"
+        },
+        {
+            "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100099231823.0x000001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The history of King Lear  : a tragedy: as it is now acted at the King's theatres. Revived, with alterations by N. Tate. London, 1756",
+            "thumbnail": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100099241390.0x000001/full/max/0/default.jpg"
+        },
+        {
+            "@id": "https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN1029924031/manifest?version=2d651b49",
+            "@type": "sc:Manifest",
+            "label": "Macbeth. Stuttgart, 1784",
+            "thumbnail": "https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN1029924031:00000001/full/96,/0/default.jpg"
+        },
+        {
+            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k34133491/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Oeuvres de William Shakespeare. Paris, 1839",
+            "thumbnail": "https://gallica.bnf.fr/ark:/12148/bpt6k34133491.thumbnail"
+        }
+       
+    ]
+}
