@@ -78,7 +78,7 @@
     {
         "@id": "https://raw.githubusercontent.com/kboespflug/Shakespeare/main/Shakespeare_ProductionPhotosjson.json",
         "@type": "sc:Collection",
-        "label": "Shakespeare: Production Photos",
+        "label": "Shakespeare: Photos",
         "description": "A IIIF collection of production photos from plays by William Shakespeare",
       
         "members": [
