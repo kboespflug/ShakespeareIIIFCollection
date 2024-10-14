@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/kboespflug/Shakespeare/main/ShakespeareSubCollections2024.json",
+    "@id": "https://raw.githubusercontent.com/kboespflug/Shakespeare/main/ShakespeareFinalTest2.json",
     "@type": "sc:Collection",
     "label": "Double, double toil and trouble",
     "description": "A IIIF collection of resources on William Shakespeare, laboriously gathered from various sources, and painstakingly arranged in sub-collections of some kind of reasonable order",
