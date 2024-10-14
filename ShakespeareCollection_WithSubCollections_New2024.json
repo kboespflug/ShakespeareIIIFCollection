@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/kboespflug/Shakespeare/main/ShakespeareFinalTest2.json",
+    "@id": "https://raw.githubusercontent.com/kboespflug/ShakespeareIIIFCollection/main/ShakespeareCollection_WithSubCollections.json",
     "@type": "sc:Collection",
     "label": "Double, double toil and trouble",
     "description": "A IIIF collection of resources on William Shakespeare, laboriously gathered from various sources, and painstakingly arranged in sub-collections of some kind of reasonable order",
@@ -42,7 +42,6 @@
             "description": "A IIIF collection of plays by William Shakespeare from various sources",
 
         "members":[
-            
             {
                 "@id": "https://iiif.unige.ch/manifest/IIIFManifest_1072056515.json",
                 "@type": "sc:Manifest",
@@ -67,7 +66,7 @@
     {
         "@id": "https://raw.githubusercontent.com/kboespflug/Shakespeare/main/Shakespeare_ProductionPhotosjson.json",
         "@type": "sc:Collection",
-        "label": "Shakespeare: Production Photos",
+        "label": "Shakespeare: Photos",
         "description": "A IIIF collection of production photos from plays by William Shakespeare",
       
         "members": [
@@ -93,7 +92,7 @@
         "description": "A IIIF collection of illustrations relating to the plays by William Shakespeare",
         
         "members": [
-                                  
+            
             {
                 "@id": "https://iiif.wellcomecollection.org/presentation/v2/b15760777",
                 "@type": "sc:Manifest",
